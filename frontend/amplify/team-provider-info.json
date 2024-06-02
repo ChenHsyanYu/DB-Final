@@ -10,6 +10,14 @@
       "StackName": "amplify-gogroupbuy-dev-9e4fc",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:992382677388:stack/amplify-gogroupbuy-dev-9e4fc/66da6000-2098-11ef-af38-06bf8a5567ab",
       "AmplifyAppId": "d2ay0ctsz4ubfk"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2ay0ctsz4ubfk",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
